@@ -22,19 +22,18 @@ I'm an aspiring AI Engineer with a strong interest in Machine Learning, Generati
 - RAG | Agentic AI
 
 **Frameworks & Libraries**
-- FastAPI | Django | Streamlit
+- FastAPI | Streamlit
 - Scikit-learn | PyTorch | NumPy | Pandas
 - LangChain | ChromaDB
 
 **Databases & Tools**
 - MySQL | MongoDB
-- Git | GitHub | Docker
+- Git | GitHub 
 
 ### 🤝 Connect With Me
 
 - 📧 Email: sushant.sinwar@gmail.com
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_LINK)
-- 🐙 GitHub: [Explore my repositories](https://github.com/Sushant3110)
+
 
 ---
 
