@@ -30,40 +30,11 @@ I'm an aspiring AI Engineer with a strong interest in Machine Learning, Generati
 - MySQL | MongoDB
 - Git | GitHub | Docker
 
----
-
-### 🚀 Featured Projects
-
-**1. CodeSage AI – AI-Powered Multi-Language Code Review Platform**
-
-*Python | FastAPI | Google Gemini | LangChain | RAG | ChromaDB*
-
-- Developed an AI-powered code review platform supporting 10 programming-language categories.
-- Implemented RAG to retrieve coding standards and security guidelines for context-aware reviews.
-- Reduced API failure handling time by 66% through custom retry logic and error handling.
-- Achieved 100% success in prompt-injection tests to strengthen AI code review security.
-
-🔗 [View Project](YOUR_CODESAGE_PROJECT_LINK)
-
-**2. Expense Management System – Personal Finance Management**
-
-*Python | FastAPI | Streamlit | MySQL | Pandas*
-
-- Developed a full-stack expense management application for financial tracking.
-- Designed a MySQL database and optimized SQL queries for expense analysis.
-- Built an interactive analytics dashboard using Streamlit and Pandas.
-- Reduced manual expense tracking time by 40% through automated analytics and visualizations.
-
-🔗 [View Project](YOUR_EXPENSE_PROJECT_LINK)
-
----
-
-
 ### 🤝 Connect With Me
 
 - 📧 Email: sushant.sinwar@gmail.com
 - 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_LINK)
-- 🐙 GitHub: [Explore my repositories](YOUR_GITHUB_LINK)
+- 🐙 GitHub: [Explore my repositories](https://github.com/Sushant3110)
 
 ---
 
